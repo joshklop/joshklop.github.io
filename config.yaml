@@ -4,25 +4,21 @@ theme: github.com/LukasJoswiak/etch
 languageCode: en-US
 params:
   description: My internet home
-  copyright: Copyright © 2023 Josh Klopfenstein
+  name: Josh Klopfenstein
+  since: 2023
   dark: auto
   highlight: true
 menu:
   main:
-    - identifier: posts
-      name: posts
-      title: posts
-      url: /
-      weight: 10
     - identifier: about
       name: about
       title: about
       url: /about/
-      weight: 20
+      weight: 1
     - identifier: github
       name: github
       url: https://github.com/joshklop
-      weight: 30
+      weight: 2
 permalinks:
   posts: /:title/
 markup:
