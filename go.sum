@@ -1,0 +1,4 @@
+github.com/LukasJoswiak/etch v0.0.0-20221013042144-3286754ceb4e h1:jqtIPgKKdLwiwNtmvZqlSJGjwa1lZphDap7p0H+Y0ic=
+github.com/LukasJoswiak/etch v0.0.0-20221013042144-3286754ceb4e/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
+github.com/joshklop/etch v0.0.0-20230314021226-c6b614c06ea9 h1:bJ76IcQMAPTr4BSsAv9aj4o1vZNSbN/VsWqyu+rQqSA=
+github.com/joshklop/etch v0.0.0-20230314021226-c6b614c06ea9/go.mod h1:/ohoNuLKJaUGef5EG0qNwi+Qk5tWLmiJ9KaRmQ4fo2A=
